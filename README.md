@@ -47,7 +47,7 @@ Le modèle reçoit uniquement les passages retrouvés et la consigne de n'utilis
 
 ```bash
 # 1. Récupérer le projet
-git clone https://github.com/<votre-compte>/AI-Study-Assistant.git
+git clone https://github.com/lotfijaadari-netizen/AI-Study-Assistant.git
 cd AI-Study-Assistant
 
 # 2. Créer et activer l'environnement virtuel
