@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Index générés (recalculables)
+index/
+
+# Cours personnels : on garde le dossier, pas les PDF
+documents/*
+!documents/.gitkeep
+
+# Éditeur et secrets
+.vscode/
+.env
