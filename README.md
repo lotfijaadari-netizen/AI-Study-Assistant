@@ -4,8 +4,7 @@ Assistant d'étude **100 % local** : importez vos cours en PDF, posez-leur des q
 
 Aucune clé d'API, aucun abonnement : tout tourne sur votre PC avec [Ollama](https://ollama.com). Vos cours ne quittent jamais votre machine.
 
-<!-- Ajoutez une capture d'écran : docs/capture.png -->
-<!-- ![Capture de l'application](docs/capture.png) -->
+   ![Capture de l'application](docs/capture.png)
 
 ## Fonctionnalités
 
